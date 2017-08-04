@@ -1,0 +1,9 @@
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\bin\Debug\transfer.exe.config
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\bin\Debug\transfer.exe
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\bin\Debug\transfer.pdb
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\obj\Debug\transfer.csprojResolveAssemblyReference.cache
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\obj\Debug\transfer.Properties.Resources.resources
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\obj\Debug\transfer.csproj.GenerateResource.Cache
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\obj\Debug\transfer.exe
+c:\users\kkrot\documents\visual studio 2017\Projects\transfer\transfer\obj\Debug\transfer.pdb
+c:\Users\kkrot\Documents\Visual Studio 2017\Projects\transfer\transfer\obj\Debug\transfer.FrmTransferenciaArchivos.resources
